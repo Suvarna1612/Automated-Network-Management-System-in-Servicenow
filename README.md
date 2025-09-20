@@ -47,18 +47,7 @@ Flow Designer
 
 ---
 
-## 📂 Project Structure
-```
-📁 Network Request Automation
-│
-├── 📄 README.md                # Project documentation (this file)
-├── 📄 Flow_Chart.png           # Workflow diagram
-├── 📄 Network_Database_Table.png # Custom table design
-├── 📄 Variable_Set_Config.png  # Variable set configuration
-├── 📄 Relationships.png        # Relationship mapping
-└── 📄 Update_Set_Export.xml    # Update set (import into ServiceNow)
 
-```
 ---
 
 ## ⚙️ Key Components
